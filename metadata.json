@@ -1,0 +1,6 @@
+{
+  "name": "Cognita - Estudo Inteligente & Gamificado",
+  "description": "Plataforma de estudos com cronogramas personalizados por IA, gamificação com XP e ofensivas diárias, estatísticas de progresso e lembretes push inteligentes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
